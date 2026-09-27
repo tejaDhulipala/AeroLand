@@ -1,6 +1,6 @@
 # AeroLand
 
-**Paper:** [AeroLand: Benchmarking the Aviation Emergency Decision-Making Capabilities of LLMs](LINK_TO_PAPER)
+**Paper:** [AeroLand: Benchmarking the Aviation Emergency Decision-Making Capabilities of LLMs](https://drive.google.com/file/d/1j8_TMtzlWsvGi7EK4JlSCcG8tlIFZVWx/view?usp=drive_link)
 
 ## Run Instructions
 
